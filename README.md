@@ -21,9 +21,6 @@ Spring Boot API with in‑memory storage, JWT auth, users and posts with like/de
 ## JWT
 Include header: `Authorization: Bearer <token>`
 
-## Logging
-Uses SLF4J; logs key events: signup, login, post create/delete/like.
-
 ## Validation & Error Handling
 Basic `RuntimeException`; Spring returns 400/500 accordingly.
 
