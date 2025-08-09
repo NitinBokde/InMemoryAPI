@@ -4,7 +4,7 @@
 Spring Boot API with in‑memory storage, JWT auth, users and posts with like/delete/list.
 
 ## Setup
-- Java 21+, Maven
+- Java 21, Maven
 - Run: `mvn spring‑boot:run`
 
 ## Endpoints
