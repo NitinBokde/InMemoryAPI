@@ -1,0 +1,27 @@
+src/main/java/com/nitin/inmemoryapi/
+  Application.java
+  config/
+    SecurityConfig.java
+    JwtAuthenticationFilter.java
+    JwtUtil.java
+  controller/
+    AuthController.java
+    PostController.java
+  dto/
+    LoginRequest.java
+    SignupRequest.java
+    PostRequest.java
+    JwtResponse.java
+  model/
+    User.java
+    Post.java
+  repository/
+    UserRepository.java
+    PostRepository.java
+  service/
+    AuthService.java
+    PostService.java
+src/main/resources/
+  application.properties
+README.md
+postman_collection.json
